@@ -16,6 +16,9 @@ def getNewThemeObj(name: str, author: str) -> dict:
         'info': {
             'title': name,
             'author': author,
+            "version": "v1",
+            "category": ["theme"],
+            "console": ["3DS"],
             'last_updated': '',
             'screenshots': []
         }
@@ -33,14 +36,14 @@ def getInstallSteps(themeName, authorName) -> list[dict]:
                 "directory": "sdmc:/fbi/",
             },
             {
-                "type": "rmdir",
-                "directory": "sdmc:/fbi/theme",
-            },
-            {
                 "type": "extractFile",
                 "file": "sdmc:/fbi-theme.zip",
                 "input": "",
                 "output": "sdmc:/fbi/"
+            },
+            {
+                "type": "deleteFile",
+                "file": "sdmc:/fbi-theme.zip"
             }
 
         ]
@@ -53,6 +56,17 @@ def addScreenshotsToThemeObj(obj, screenshots: list[dict]) -> None:
 def getStoreContent() -> list[dict]:
 
     storeContent = []
+
+    clearThemeObj = getNewThemeObj("Reset to Default Theme", "Ozymandias")
+    clearThemeObj['info']['category'][0] = 'utility'
+    clearThemeObj['info']['last_updated'] = '2/22/26'
+    clearThemeObj['Clear'] = [
+        {
+            "type": "rmdir",
+            "directory": "sdmc:/fbi/theme"
+        }
+    ]
+    storeContent.append(clearThemeObj)
 
     for authorName in os.listdir(authorDirPath):
 

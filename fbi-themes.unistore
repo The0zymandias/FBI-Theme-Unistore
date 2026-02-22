@@ -4,16 +4,44 @@
         "author": "Ozymandias",
         "description": "A collection of themes for the FBI app, collected by Ozymandias and created by many.\nAll credit goes to the original authors.",
         "file": "fbi-themes.unistore",
-        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/fbi-themes.unistore",
-        "infoURL": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/storeInfo.json",
+        "url": "https://github.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/fbi-themes.unistore",
+        "infoURL": "https://github.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/storeInfo.json",
         "version": 3,
-        "revision": 3
+        "revision": 4
     },
     "storeContent": [
         {
             "info": {
+                "title": "Reset to Default Theme",
+                "author": "Ozymandias",
+                "version": "v1",
+                "category": [
+                    "utility"
+                ],
+                "console": [
+                    "3DS"
+                ],
+                "last_updated": "2/22/26",
+                "screenshots": []
+            },
+            "Clear": [
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                }
+            ]
+        },
+        {
+            "info": {
                 "title": "Simple Dark",
                 "author": "1ted59",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -28,14 +56,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -43,6 +71,13 @@
             "info": {
                 "title": "arc13's Light",
                 "author": "arc13",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -57,14 +92,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -72,6 +107,13 @@
             "info": {
                 "title": "arc13's Dark",
                 "author": "arc13",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -86,14 +128,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -101,6 +143,13 @@
             "info": {
                 "title": "CHT_Player's Theme",
                 "author": "CHT_Player",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -115,14 +164,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -130,6 +179,13 @@
             "info": {
                 "title": "Animal Crossing",
                 "author": "elBenyo",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -144,14 +200,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -159,6 +215,13 @@
             "info": {
                 "title": "Giratina",
                 "author": "GrewdonGaming21",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -173,14 +236,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -188,6 +251,13 @@
             "info": {
                 "title": "Team Aqua",
                 "author": "GrewdonGaming21",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -202,14 +272,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -217,6 +287,13 @@
             "info": {
                 "title": "Team Magma",
                 "author": "GrewdonGaming21",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -231,14 +308,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -246,6 +323,13 @@
             "info": {
                 "title": "Asuka Langley - Neon Genesis Evangelion",
                 "author": "JhonSmith",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -260,14 +344,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -275,6 +359,13 @@
             "info": {
                 "title": "FBI - Winners Don't Use Drugs",
                 "author": "Jirachi_star",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -289,14 +380,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -304,6 +395,13 @@
             "info": {
                 "title": "Dark Material Theme",
                 "author": "mdj03",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -318,14 +416,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -333,6 +431,13 @@
             "info": {
                 "title": "Dedsec Inspired",
                 "author": "Navonod",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -347,14 +452,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -362,6 +467,13 @@
             "info": {
                 "title": "Dedsec Inspired (no ASCII art)",
                 "author": "Navonod",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -376,14 +488,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -391,6 +503,13 @@
             "info": {
                 "title": "Pikachu",
                 "author": "Navonod",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -405,14 +524,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -420,6 +539,13 @@
             "info": {
                 "title": "Powerpuff Girls",
                 "author": "Navonod",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -434,14 +560,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -449,6 +575,13 @@
             "info": {
                 "title": "Team Rainbow Rocket",
                 "author": "Navonod",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -463,14 +596,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -478,6 +611,13 @@
             "info": {
                 "title": "dotHack Skeith and Haseo",
                 "author": "Navonod",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -492,14 +632,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -507,6 +647,13 @@
             "info": {
                 "title": "The Legend of Zelda 3DS",
                 "author": "OblivionReign",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -521,14 +668,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -536,6 +683,13 @@
             "info": {
                 "title": "Hotel Dusk - Last Window",
                 "author": "Patoman0-0",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -550,14 +704,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -565,6 +719,13 @@
             "info": {
                 "title": "Goku Theme",
                 "author": "Regnum",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -579,14 +740,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -594,6 +755,13 @@
             "info": {
                 "title": "Shutterstock Free Use Images Gaming",
                 "author": "TonyNESgri",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -608,14 +776,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -623,6 +791,13 @@
             "info": {
                 "title": "Monster Hunter Generations",
                 "author": "Vulpes-Vulpeos",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -637,14 +812,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -652,6 +827,13 @@
             "info": {
                 "title": "Galaxy FBI Theme",
                 "author": "Zekamon",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -666,14 +848,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -681,6 +863,13 @@
             "info": {
                 "title": "Akashic Records",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -695,14 +884,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -710,6 +899,13 @@
             "info": {
                 "title": "Bravely Default",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -724,14 +920,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -739,6 +935,13 @@
             "info": {
                 "title": "Charizard X",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -753,14 +956,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -768,6 +971,13 @@
             "info": {
                 "title": "Fire Emblem Echos",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -782,14 +992,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -797,6 +1007,13 @@
             "info": {
                 "title": "Kanna",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -811,14 +1028,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -826,6 +1043,13 @@
             "info": {
                 "title": "Kirby",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -840,14 +1064,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -855,6 +1079,13 @@
             "info": {
                 "title": "Lucina - Fire Emblem",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -869,14 +1100,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -884,6 +1115,13 @@
             "info": {
                 "title": "Megumin",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -898,14 +1136,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -913,6 +1151,13 @@
             "info": {
                 "title": "Monster Hunter",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -927,14 +1172,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -942,6 +1187,13 @@
             "info": {
                 "title": "Overwatch Reaper",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -956,14 +1208,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -971,6 +1223,13 @@
             "info": {
                 "title": "Phoenix Wright",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -985,14 +1244,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1000,6 +1259,13 @@
             "info": {
                 "title": "Rem",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1014,14 +1280,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1029,6 +1295,13 @@
             "info": {
                 "title": "Sabrina",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1043,14 +1316,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1058,6 +1331,13 @@
             "info": {
                 "title": "Summon Night 5 EX VE",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1072,14 +1352,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1087,6 +1367,13 @@
             "info": {
                 "title": "Triforce",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1101,14 +1388,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1116,6 +1403,13 @@
             "info": {
                 "title": "Triforce II",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1130,14 +1424,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1145,6 +1439,13 @@
             "info": {
                 "title": "Triforce III",
                 "author": "Pipstol",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1159,14 +1460,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1174,6 +1475,13 @@
             "info": {
                 "title": "Hatsune Miku",
                 "author": "Goofyanimefan",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1188,14 +1496,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1203,6 +1511,13 @@
             "info": {
                 "title": "'Murica",
                 "author": "Pluupy",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1217,14 +1532,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1232,6 +1547,13 @@
             "info": {
                 "title": "Ryomou Shimei",
                 "author": "Nekukun97",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1246,14 +1568,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1261,6 +1583,13 @@
             "info": {
                 "title": "FBI Literal Theme",
                 "author": "MustacheBoyo",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1275,14 +1604,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1290,6 +1619,13 @@
             "info": {
                 "title": "FBI Literal Theme V2",
                 "author": "MustacheBoyo",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1304,14 +1640,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1319,6 +1655,13 @@
             "info": {
                 "title": "Magic Dark",
                 "author": "Stewartisme",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1333,14 +1676,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1348,6 +1691,13 @@
             "info": {
                 "title": "Magic Dark (Lighter WiFi & Battery)",
                 "author": "Stewartisme",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1362,14 +1712,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1377,6 +1727,13 @@
             "info": {
                 "title": "FBI_Theme",
                 "author": "Shadowhand",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1391,14 +1748,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1406,6 +1763,13 @@
             "info": {
                 "title": "Gundam RX-78-2",
                 "author": "Unkown Authors",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1420,14 +1784,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         },
@@ -1435,6 +1799,13 @@
             "info": {
                 "title": "Matrix Virus",
                 "author": "Unkown Authors",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1449,14 +1820,14 @@
                     "directory": "sdmc:/fbi/"
                 },
                 {
-                    "type": "rmdir",
-                    "directory": "sdmc:/fbi/theme"
-                },
-                {
                     "type": "extractFile",
                     "file": "sdmc:/fbi-theme.zip",
                     "input": "",
                     "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
                 }
             ]
         }
