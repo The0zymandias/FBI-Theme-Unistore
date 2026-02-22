@@ -25,7 +25,7 @@ def getInstallSteps(themeName, authorName) -> list[dict]:
     return [
             {
                 "type": "downloadFile",
-                "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/"+urlparse.quote(authorName)+"/"+urlparse.quote(themeName)+"/theme.zip",
+                "file": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/"+urlparse.quote(authorName)+"/"+urlparse.quote(themeName)+"/theme.zip",
                 "output": "sdmc:/fbi-theme.zip"
             },
             {
