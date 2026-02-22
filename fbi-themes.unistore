@@ -1,0 +1,1464 @@
+{
+    "storeInfo": {
+        "title": "Ozymandias's FBI Themes Collection",
+        "author": "Ozymandias",
+        "description": "A collection of themes for the FBI app, collected by Ozymandias\nand created by many.\nAll credit goes to the original authors.",
+        "file": "fbi-themes.unistore",
+        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/fbi-themes.unistore",
+        "infoURL": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/storeInfo.json",
+        "version": 3,
+        "revision": 2
+    },
+    "storeContent": [
+        {
+            "info": {
+                "title": "Simple Dark",
+                "author": "1ted59",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/1ted59/Simple%20Dark/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "arc13's Light",
+                "author": "arc13",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/arc13/arc13%27s%20Light/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "arc13's Dark",
+                "author": "arc13",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/arc13/arc13%27s%20Dark/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "CHT_Player's Theme",
+                "author": "CHT_Player",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/CHT_Player/CHT_Player%27s%20Theme/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Animal Crossing",
+                "author": "elBenyo",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/elBenyo/Animal%20Crossing/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Giratina",
+                "author": "GrewdonGaming21",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/GrewdonGaming21/Giratina/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Team Aqua",
+                "author": "GrewdonGaming21",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/GrewdonGaming21/Team%20Aqua/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Team Magma",
+                "author": "GrewdonGaming21",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/GrewdonGaming21/Team%20Magma/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Asuka Langley - Neon Genesis Evangelion",
+                "author": "JhonSmith",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/JhonSmith/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "FBI - Winners Don't Use Drugs",
+                "author": "Jirachi_star",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Jirachi_star/FBI%20-%20Winners%20Don%27t%20Use%20Drugs/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Dark Material Theme",
+                "author": "mdj03",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/mdj03/Dark%20Material%20Theme/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Dedsec Inspired",
+                "author": "Navonod",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Navonod/Dedsec%20Inspired/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Dedsec Inspired (no ASCII art)",
+                "author": "Navonod",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Navonod/Dedsec%20Inspired%20%28no%20ASCII%20art%29/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Pikachu",
+                "author": "Navonod",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Navonod/Pikachu/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Powerpuff Girls",
+                "author": "Navonod",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Navonod/Powerpuff%20Girls/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Team Rainbow Rocket",
+                "author": "Navonod",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Navonod/Team%20Rainbow%20Rocket/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "dotHack Skeith and Haseo",
+                "author": "Navonod",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Navonod/dotHack%20Skeith%20and%20Haseo/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "The Legend of Zelda 3DS",
+                "author": "OblivionReign",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/OblivionReign/The%20Legend%20of%20Zelda%203DS/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Hotel Dusk - Last Window",
+                "author": "Patoman0-0",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Patoman0-0/Hotel%20Dusk%20-%20Last%20Window/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Goku Theme",
+                "author": "Regnum",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Regnum/Goku%20Theme/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Shutterstock Free Use Images Gaming",
+                "author": "TonyNESgri",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/TonyNESgri/Shutterstock%20Free%20Use%20Images%20Gaming/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Monster Hunter Generations",
+                "author": "Vulpes-Vulpeos",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Vulpes-Vulpeos/Monster%20Hunter%20Generations/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Galaxy FBI Theme",
+                "author": "Zekamon",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Zekamon/Galaxy%20FBI%20Theme/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Akashic Records",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Akashic%20Records/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Bravely Default",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Bravely%20Default/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Charizard X",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Charizard%20X/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Fire Emblem Echos",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Fire%20Emblem%20Echos/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Kanna",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Kanna/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Kirby",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Kirby/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Lucina - Fire Emblem",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Lucina%20-%20Fire%20Emblem/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Megumin",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Megumin/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Monster Hunter",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Monster%20Hunter/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Overwatch Reaper",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Overwatch%20Reaper/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Phoenix Wright",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Phoenix%20Wright/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Rem",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Rem/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Sabrina",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Sabrina/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Summon Night 5 EX VE",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Summon%20Night%205%20EX%20VE/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Triforce",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Triforce/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Triforce II",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Triforce%20II/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Triforce III",
+                "author": "Pipstol",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Triforce%20III/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Hatsune Miku",
+                "author": "Goofyanimefan",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Goofyanimefan/Hatsune%20Miku/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "'Murica",
+                "author": "Pluupy",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pluupy/%27Murica/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Ryomou Shimei",
+                "author": "Nekukun97",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Nekukun97/Ryomou%20Shimei/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "FBI Literal Theme",
+                "author": "MustacheBoyo",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/MustacheBoyo/FBI%20Literal%20Theme/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "FBI Literal Theme V2",
+                "author": "MustacheBoyo",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/MustacheBoyo/FBI%20Literal%20Theme%20V2/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Magic Dark",
+                "author": "Stewartisme",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Stewartisme/Magic%20Dark/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Magic Dark (Lighter WiFi & Battery)",
+                "author": "Stewartisme",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Stewartisme/Magic%20Dark%20%28Lighter%20WiFi%20%26%20Battery%29/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "FBI_Theme",
+                "author": "Shadowhand",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Shadowhand/FBI_Theme/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Gundam RX-78-2",
+                "author": "Unkown Authors",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Unkown%20Authors/Gundam%20RX-78-2/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Matrix Virus",
+                "author": "Unkown Authors",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Unkown%20Authors/Matrix%20Virus/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                }
+            ]
+        }
+    ]
+}

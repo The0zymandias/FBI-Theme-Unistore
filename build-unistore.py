@@ -1,7 +1,8 @@
-import os.path as path
-
 import os
 import json
+
+import os.path as path
+import urllib.parse as urlparse
 
 authorDirPath = path.join(os.curdir, "Authors")
 storeInfoPath = path.join(os.curdir, "storeInfo.json")
@@ -19,6 +20,31 @@ def getNewThemeObj(name: str, author: str) -> dict:
             'screenshots': []
         }
     }
+
+def getInstallSteps(themeName, authorName) -> list[dict]:
+    return [
+            {
+                "type": "downloadFile",
+                "file": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/"+urlparse.quote(authorName)+"/"+urlparse.quote(themeName)+"/theme.zip",
+                "output": "sdmc:/fbi-theme.zip"
+            },
+            {
+                "type": "mkdir",
+                "directory": "sdmc:/fbi/",
+            },
+            {
+                "type": "rmdir",
+                "directory": "sdmc:/fbi/theme",
+            },
+            {
+                "type": "extractFile",
+                "file": "sdmc:/fbi-theme.zip",
+                "input": "",
+                "output": "sdmc:/fbi/"
+            }
+
+        ]
+
 
 def addScreenshotsToThemeObj(obj, screenshots: list[dict]) -> None:
     for screenshot in screenshot:
@@ -41,23 +67,30 @@ def getStoreContent() -> list[dict]:
             curThemeDirPath = path.join(curAuthorDirPath, themeName)
             curPreviewsDirPath = path.join(curThemeDirPath, "Previews")
             if not path.isdir(curThemeDirPath):
-                print("Skipping "+themeName+" preview cause not a dir lmao")
+                print("\tSkipping "+themeName+" at "+curThemeDirPath+" cause not a dir lmao")
                 continue
             print("\t"+themeName)
 
             curThemeObj = getNewThemeObj(themeName, authorName)
 
             if path.isdir(curPreviewsDirPath) and path.isfile(path.join(curPreviewsDirPath, "p1.png")) and path.isfile(path.join(curPreviewsDirPath, "p2.png")):
-                print("Found previews 1 and 2 for "+ themeName)
+                print("\tFound previews 1 and 2 for "+ themeName)
+                # TODO: code this
 
+            curThemeObj['Install'] = getInstallSteps(themeName, authorName)
 
+            storeContent.append(curThemeObj)
+
+    return storeContent
 
 def buildStore() -> None:
     print("cwd: "+os.curdir)
     unistore = {
-        ['storeInfo']: getStoreInfo(),
-        ['storeContent']: getStoreContent()
+        'storeInfo': getStoreInfo(),
+        'storeContent': getStoreContent()
     }
+    with open('fbi-themes.unistore', "w") as storeFile:
+        json.dump(unistore, storeFile, indent=4)
 
 if __name__ == '__main__':
     buildStore()
