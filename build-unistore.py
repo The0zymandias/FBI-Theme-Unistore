@@ -19,6 +19,7 @@ def getNewThemeObj(name: str, author: str) -> dict:
             "version": "v1",
             "category": ["theme"],
             "console": ["3DS"],
+            "description": "Tap on the photo icon on the bottom of your screen to see a preview",
             'last_updated': '',
             'screenshots': []
         }
@@ -88,13 +89,17 @@ def getStoreContent() -> list[dict]:
             curThemeObj = getNewThemeObj(themeName, authorName)
 
             if path.isdir(curPreviewsDirPath) and path.isfile(path.join(curPreviewsDirPath, "p1.png")) and path.isfile(path.join(curPreviewsDirPath, "p2.png")):
-                print("\tFound previews 1 and 2 for "+ themeName)
+                print("\t\tFound previews 1 and 2")
                 # TODO: code this
+            else:
+                print("\t\tCouldn't find previews")
+
 
             curThemeObj['Install'] = getInstallSteps(themeName, authorName)
 
             storeContent.append(curThemeObj)
 
+    print("Total store content: "+str(len(storeContent)))
     return storeContent
 
 def buildStore() -> None:
