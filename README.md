@@ -9,4 +9,6 @@ Unistore nstallation steps:
 4. At the bottom center, tap on the plus icon
 5. Select the QR icon in the bottom left and then scan this QR code.
 6. You can now swap between the default homebrew store (Universal-DB) and this FBI themes store by going to 'Select Unistore'.
+
+
 ![Alt text](unistore-qr.png)
