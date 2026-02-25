@@ -1,4 +1,5 @@
+romfs
+__pycache__
 *.exe
 fbi_theme_preview.py
-romfs
 preview.png

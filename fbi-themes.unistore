@@ -7,7 +7,7 @@
         "url": "https://github.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/fbi-themes.unistore",
         "infoURL": "https://github.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/storeInfo.json",
         "version": 3,
-        "revision": 4
+        "revision": 5
     },
     "storeContent": [
         {
@@ -341,7 +341,10 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/JhonSmith/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion/Previews/P1.png",
+                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/JhonSmith/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion/Previews/P2.png"
+                ]
             },
             "Install": [
                 {
@@ -1414,7 +1417,10 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Triforce/Previews/P1.png",
+                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Pipstol/Triforce/Previews/P2.png"
+                ]
             },
             "Install": [
                 {
