@@ -1,4 +1,20 @@
+#!/usr/bin/python
 # This code is written to work with Python 3.11
+#
+#   This file is part of FBI-Theme-Unistore
+#
+#   This program is free software: you can redistribute it and/or modify
+#   it under the terms of the GNU General Public License as published by
+#   the Free Software Foundation, either version 3 of the License, or
+#   (at your option) any later version.
+#
+#   This program is distributed in the hope that it will be useful,
+#   but WITHOUT ANY WARRANTY; without even the implied warranty of
+#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#   GNU General Public License for more details.
+#
+#   You should have received a copy of the GNU General Public License
+#   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import os
 import json
@@ -41,7 +57,7 @@ def getStoreContent() -> list[dict]:
 
             # Add previews if they exist
             curPreviewsDirPath = path.join(curThemeDirPath, "Previews")
-            if path.isdir(curPreviewsDirPath) and path.isfile(path.join(curPreviewsDirPath, "p1.png")) and path.isfile(path.join(curPreviewsDirPath, "p2.png")):
+            if path.isdir(curPreviewsDirPath) and path.isfile(path.join(curPreviewsDirPath, "P1.png")) and path.isfile(path.join(curPreviewsDirPath, "P2.png")):
                 print("\t\tFound previews 1 and 2, adding them to theme entry")
                 curThemeObj['info']['screenshots'].append(getPreviewURLString(themeName, authorName, "P1.png"))
                 curThemeObj['info']['screenshots'].append(getPreviewURLString(themeName, authorName, "P2.png"))

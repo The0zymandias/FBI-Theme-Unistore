@@ -1,7 +1,7 @@
 # FBI-Theme-Unistore
 A collection of themes for the FBI app, collected and cataloged by me and created by many others. All credit for the themes go to the original authors.
 
-Unistore nstallation steps:
+Unistore installation steps:
 
 1. Make sure you have Universal-Updater on your 3DS
 2. Open Universal-Updater and then select the gear icon on the bottom left
