@@ -4,10 +4,10 @@
         "author": "Ozymandias",
         "description": "A collection of themes for the FBI app,\ncollected by Ozymandias and created by many.\nAll credit goes to the original authors.",
         "file": "fbi-themes.unistore",
-        "url": "https://github.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/fbi-themes.unistore",
-        "infoURL": "https://github.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/storeInfo.json",
+        "url": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/fbi-themes.unistore",
+        "infoURL": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/storeInfo.json",
         "version": 3,
-        "revision": 6
+        "revision": 8
     },
     "storeContent": [
         {
@@ -46,8 +46,8 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/1ted59/Simple%20Dark/Previews/P1.png",
-                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/1ted59/Simple%20Dark/Previews/P2.png"
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/1ted59/Simple%20Dark/Previews/P1.png",
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/1ted59/Simple%20Dark/Previews/P2.png"
                 ]
             },
             "Install": [
@@ -86,8 +86,8 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/arc13/arc13%27s%20Light/Previews/P1.png",
-                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/arc13/arc13%27s%20Light/Previews/P2.png"
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/arc13/arc13%27s%20Light/Previews/P1.png",
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/arc13/arc13%27s%20Light/Previews/P2.png"
                 ]
             },
             "Install": [
@@ -126,8 +126,8 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/arc13/arc13%27s%20Dark/Previews/P1.png",
-                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/arc13/arc13%27s%20Dark/Previews/P2.png"
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/arc13/arc13%27s%20Dark/Previews/P1.png",
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/arc13/arc13%27s%20Dark/Previews/P2.png"
                 ]
             },
             "Install": [
@@ -165,7 +165,10 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/CHT_Player/CHT_Player%27s%20Theme/Previews/P1.png",
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/CHT_Player/CHT_Player%27s%20Theme/Previews/P2.png"
+                ]
             },
             "Install": [
                 {
@@ -202,7 +205,10 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/elBenyo/Animal%20Crossing/Previews/P1.png",
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/elBenyo/Animal%20Crossing/Previews/P2.png"
+                ]
             },
             "Install": [
                 {
@@ -351,8 +357,8 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/JhonSmith/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion/Previews/P1.png",
-                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/JhonSmith/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion/Previews/P2.png"
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/JhonSmith/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion/Previews/P1.png",
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/JhonSmith/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion/Previews/P2.png"
                 ]
             },
             "Install": [
@@ -1537,7 +1543,10 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Goofyanimefan/Hatsune%20Miku/Previews/P1.png",
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Goofyanimefan/Hatsune%20Miku/Previews/P2.png"
+                ]
             },
             "Install": [
                 {
@@ -1945,8 +1954,8 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Brumbpo%20Tungus/Ok%20Computer%20-%20Radiohead/Previews/P1.png",
-                    "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/Brumbpo%20Tungus/Ok%20Computer%20-%20Radiohead/Previews/P2.png"
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Brumbpo%20Tungus/Ok%20Computer%20-%20Radiohead/Previews/P1.png",
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Brumbpo%20Tungus/Ok%20Computer%20-%20Radiohead/Previews/P2.png"
                 ]
             },
             "Install": [
@@ -1984,12 +1993,52 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/FancyQuinn/Persona%205%20Ann%20Theme/Previews/P1.png",
+                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/FancyQuinn/Persona%205%20Ann%20Theme/Previews/P2.png"
+                ]
             },
             "Install": [
                 {
                     "type": "downloadFile",
                     "file": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/FancyQuinn/Persona%205%20Ann%20Theme/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Rasco's Dark Theme",
+                "author": "RascoSakuraba",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
+                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/RascoSakuraba/Rasco%27s%20Dark%20Theme/theme.zip",
                     "output": "sdmc:/fbi-theme.zip"
                 },
                 {

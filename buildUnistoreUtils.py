@@ -13,7 +13,7 @@
 #   You should have received a copy of the GNU General Public License
 #   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import urllib.parse as urlparse
+from urllib.parse import quote as urlquote
 
 def getNewThemeObj(name: str, author: str) -> dict:
     return {
@@ -33,7 +33,7 @@ def getInstallSteps(themeName, authorName) -> list[dict]:
     return [
             {
                 "type": "downloadFile",
-                "file": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/"+urlparse.quote(authorName)+"/"+urlparse.quote(themeName)+"/theme.zip",
+                "file": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/"+urlquote(authorName)+"/"+urlquote(themeName)+"/theme.zip",
                 "output": "sdmc:/fbi-theme.zip"
             },
             {
@@ -54,7 +54,7 @@ def getInstallSteps(themeName, authorName) -> list[dict]:
         ]
 
 def getPreviewURLString(themeName: str, authorName: str, previewFileName: str) -> str:
-    return "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/"+urlparse.quote(authorName)+"/"+urlparse.quote(themeName)+"/Previews/"+urlparse.quote(previewFileName)
+    return "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/"+urlquote(authorName)+"/"+urlquote(themeName)+"/Previews/"+urlquote(previewFileName)
 
 def addClearFBIThemeOption(storeContent: list) -> None:
     clearThemeObj = getNewThemeObj("Reset to Default Theme", "Ozymandias")
