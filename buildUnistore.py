@@ -59,8 +59,14 @@ def getStoreContent() -> list[dict]:
             curPreviewsDirPath = path.join(curThemeDirPath, "Previews")
             if path.isdir(curPreviewsDirPath) and path.isfile(path.join(curPreviewsDirPath, "P1.png")) and path.isfile(path.join(curPreviewsDirPath, "P2.png")):
                 print("\t\tFound previews 1 and 2, adding them to theme entry")
-                curThemeObj['info']['screenshots'].append(getPreviewURLString(themeName, authorName, "P1.png"))
-                curThemeObj['info']['screenshots'].append(getPreviewURLString(themeName, authorName, "P2.png"))
+                curThemeObj['info']['screenshots'].append({
+                    "description": "Main menu",
+                    "url": getPreviewURLString(themeName, authorName, "P1.png")
+                    })
+                curThemeObj['info']['screenshots'].append({
+                    "description": "Browsing",
+                    "url": getPreviewURLString(themeName, authorName, "P2.png")
+                    })
             else:
                 print("\t\tCouldn't find previews")
 

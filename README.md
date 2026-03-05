@@ -1,7 +1,7 @@
 # FBI-Theme-Unistore
-A collection of themes for the FBI app, collected and cataloged by me and created by many others. All credit for the themes go to the original authors.
+A collection of themes for the FBI app, collected and cataloged by me and created by many others. All credit for the themes go to the original authors. I do not claim to have made any of these individual themes. If you are an author and would like your theme removed, please contact me with proof it is yours and I will gladly take it down.
 
-If you'd like a FBI theme added to the store, please create a new issue in the Issues tab.
+If you'd like a FBI theme added to the store or have any problems with an installed/installing a theme, please create a new issue in the Issues tab.
 
 Unistore installation steps:
 1. Make sure you have Universal-Updater on your 3DS

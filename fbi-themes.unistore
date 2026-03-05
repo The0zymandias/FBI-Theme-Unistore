@@ -7,7 +7,7 @@
         "url": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/fbi-themes.unistore",
         "infoURL": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/storeInfo.json",
         "version": 3,
-        "revision": 8
+        "revision": 9
     },
     "storeContent": [
         {
@@ -46,8 +46,14 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/1ted59/Simple%20Dark/Previews/P1.png",
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/1ted59/Simple%20Dark/Previews/P2.png"
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/1ted59/Simple%20Dark/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/1ted59/Simple%20Dark/Previews/P2.png"
+                    }
                 ]
             },
             "Install": [
@@ -86,8 +92,14 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/arc13/arc13%27s%20Light/Previews/P1.png",
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/arc13/arc13%27s%20Light/Previews/P2.png"
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/arc13/arc13%27s%20Light/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/arc13/arc13%27s%20Light/Previews/P2.png"
+                    }
                 ]
             },
             "Install": [
@@ -126,8 +138,14 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/arc13/arc13%27s%20Dark/Previews/P1.png",
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/arc13/arc13%27s%20Dark/Previews/P2.png"
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/arc13/arc13%27s%20Dark/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/arc13/arc13%27s%20Dark/Previews/P2.png"
+                    }
                 ]
             },
             "Install": [
@@ -166,8 +184,14 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/CHT_Player/CHT_Player%27s%20Theme/Previews/P1.png",
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/CHT_Player/CHT_Player%27s%20Theme/Previews/P2.png"
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/CHT_Player/CHT_Player%27s%20Theme/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/CHT_Player/CHT_Player%27s%20Theme/Previews/P2.png"
+                    }
                 ]
             },
             "Install": [
@@ -206,8 +230,14 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/elBenyo/Animal%20Crossing/Previews/P1.png",
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/elBenyo/Animal%20Crossing/Previews/P2.png"
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/elBenyo/Animal%20Crossing/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/elBenyo/Animal%20Crossing/Previews/P2.png"
+                    }
                 ]
             },
             "Install": [
@@ -245,7 +275,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/GrewdonGaming21/Giratina/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/GrewdonGaming21/Giratina/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -282,7 +321,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/GrewdonGaming21/Team%20Aqua/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/GrewdonGaming21/Team%20Aqua/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -319,7 +367,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/GrewdonGaming21/Team%20Magma/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/GrewdonGaming21/Team%20Magma/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -357,8 +414,14 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/JhonSmith/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion/Previews/P1.png",
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/JhonSmith/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion/Previews/P2.png"
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/JhonSmith/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/JhonSmith/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion/Previews/P2.png"
+                    }
                 ]
             },
             "Install": [
@@ -433,7 +496,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/mdj03/Dark%20Material%20Theme/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/mdj03/Dark%20Material%20Theme/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -470,7 +542,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Navonod/Dedsec%20Inspired/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Navonod/Dedsec%20Inspired/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -507,7 +588,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Navonod/Dedsec%20Inspired%20%28no%20ASCII%20art%29/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Navonod/Dedsec%20Inspired%20%28no%20ASCII%20art%29/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -544,7 +634,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Navonod/Pikachu/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Navonod/Pikachu/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -581,7 +680,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Navonod/Powerpuff%20Girls/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Navonod/Powerpuff%20Girls/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -618,7 +726,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Navonod/Team%20Rainbow%20Rocket/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Navonod/Team%20Rainbow%20Rocket/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -655,7 +772,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Navonod/dotHack%20Skeith%20and%20Haseo/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Navonod/dotHack%20Skeith%20and%20Haseo/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -692,7 +818,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/OblivionReign/The%20Legend%20of%20Zelda%203DS/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/OblivionReign/The%20Legend%20of%20Zelda%203DS/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -1544,8 +1679,14 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Goofyanimefan/Hatsune%20Miku/Previews/P1.png",
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Goofyanimefan/Hatsune%20Miku/Previews/P2.png"
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Goofyanimefan/Hatsune%20Miku/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Goofyanimefan/Hatsune%20Miku/Previews/P2.png"
+                    }
                 ]
             },
             "Install": [
@@ -1583,7 +1724,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/McWhiters9511/Simple%20Mint/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/McWhiters9511/Simple%20Mint/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -1620,7 +1770,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Pluupy/%27Murica/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Pluupy/%27Murica/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -1657,7 +1816,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Nekukun97/Ryomou%20Shimei/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Nekukun97/Ryomou%20Shimei/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -1694,7 +1862,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/MustacheBoyo/FBI%20Literal%20Theme/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/MustacheBoyo/FBI%20Literal%20Theme/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -1731,7 +1908,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/MustacheBoyo/FBI%20Literal%20Theme%20V2/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/MustacheBoyo/FBI%20Literal%20Theme%20V2/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -1768,7 +1954,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Stewartisme/Magic%20Dark/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Stewartisme/Magic%20Dark/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -1842,7 +2037,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Shadowhand/Dark%20Grey/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Shadowhand/Dark%20Grey/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -1879,7 +2083,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Unkown%20Author/Gundam%20RX-78-2/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Unkown%20Author/Gundam%20RX-78-2/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -1954,8 +2167,14 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Brumbpo%20Tungus/Ok%20Computer%20-%20Radiohead/Previews/P1.png",
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Brumbpo%20Tungus/Ok%20Computer%20-%20Radiohead/Previews/P2.png"
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Brumbpo%20Tungus/Ok%20Computer%20-%20Radiohead/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Brumbpo%20Tungus/Ok%20Computer%20-%20Radiohead/Previews/P2.png"
+                    }
                 ]
             },
             "Install": [
@@ -1994,8 +2213,14 @@
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
                 "screenshots": [
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/FancyQuinn/Persona%205%20Ann%20Theme/Previews/P1.png",
-                    "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/FancyQuinn/Persona%205%20Ann%20Theme/Previews/P2.png"
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/FancyQuinn/Persona%205%20Ann%20Theme/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/FancyQuinn/Persona%205%20Ann%20Theme/Previews/P2.png"
+                    }
                 ]
             },
             "Install": [
@@ -2033,7 +2258,16 @@
                 ],
                 "description": "Tap on the photo icon on the bottom of your screen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/RascoSakuraba/Rasco%27s%20Dark%20Theme/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/RascoSakuraba/Rasco%27s%20Dark%20Theme/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
