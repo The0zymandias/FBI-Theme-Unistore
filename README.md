@@ -3,6 +3,8 @@ A collection of themes for the FBI app, collected and cataloged by me and create
 
 If you'd like a FBI theme added to the store or have any problems with an installed/installing a theme, please create a new issue in the Issues tab.
 
+The build script and all code is written to work with Python 3.11, but similar python versions may work aswell.
+
 Unistore installation steps:
 1. Make sure you have Universal-Updater on your 3DS
 2. Open Universal-Updater and then select the gear icon on the bottom left

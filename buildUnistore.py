@@ -22,6 +22,7 @@ import json
 import os.path as path
 
 from buildUnistoreUtils import *
+from themeChecking import *
 
 authorDirPath = path.join(os.curdir, "Authors")
 storeInfoPath = path.join(os.curdir, "storeInfo.json")
@@ -45,7 +46,7 @@ def getStoreContent() -> list[dict]:
 
         for themeName in os.listdir(curAuthorDirPath):
 
-            # Creating install option/unistore entry
+            # yo let's make sure this exists rq
             curThemeDirPath = path.join(curAuthorDirPath, themeName)
             if not path.isdir(curThemeDirPath):
                 print("\tSkipping "+themeName+" at "+curThemeDirPath+" cause not a dir lmao")
@@ -55,18 +56,31 @@ def getStoreContent() -> list[dict]:
             curThemeObj = getNewThemeObj(themeName, authorName)
             curThemeObj['Install'] = getInstallSteps(themeName, authorName)
 
+            if checkThemeZipForThemeDir(themeName, authorName) == False:
+                print("\t\tNo \'theme\' base theme dir found in theme zip, skipping")
+                continue
+            if checkThemeZipForOldVersion(themeName, authorName):
+                print("\t\t"+"Older theme format; theme/button.png is present")
+
+            if getThemeZipLogoSize(themeName, authorName) != (128, 128):
+                print("\t\t"+"Logo size is non-standard: "+ str(getThemeZipLogoSize(themeName, authorName)))
+
             # Add previews if they exist
             curPreviewsDirPath = path.join(curThemeDirPath, "Previews")
-            if path.isdir(curPreviewsDirPath) and path.isfile(path.join(curPreviewsDirPath, "P1.png")) and path.isfile(path.join(curPreviewsDirPath, "P2.png")):
-                print("\t\tFound previews 1 and 2, adding them to theme entry")
-                curThemeObj['info']['screenshots'].append({
-                    "description": "Main menu",
-                    "url": getPreviewURLString(themeName, authorName, "P1.png")
-                    })
-                curThemeObj['info']['screenshots'].append({
-                    "description": "Browsing",
-                    "url": getPreviewURLString(themeName, authorName, "P2.png")
-                    })
+            if path.isdir(curPreviewsDirPath):
+                if path.isfile(path.join(curPreviewsDirPath, "P1.png")):
+                    print("\t\tFound preview 1, adding to theme entry")
+                    # ugly way to do this but I don't feel like changing it rn
+                    curThemeObj['info']['screenshots'].append({
+                        "description": "Main menu",
+                        "url": getPreviewURLString(themeName, authorName, "P1.png")
+                        })
+                    if path.isfile(path.join(curPreviewsDirPath, "P2.png")):
+                        print("\t\tFound preview 2, adding to theme entry")
+                        curThemeObj['info']['screenshots'].append({
+                            "description": "Browsing",
+                            "url": getPreviewURLString(themeName, authorName, "P2.png")
+                            })
             else:
                 print("\t\tCouldn't find previews")
 

@@ -2,12 +2,12 @@
     "storeInfo": {
         "title": "Ozymandias's FBI Themes",
         "author": "Ozymandias",
-        "description": "A collection of themes for the FBI app,\ncollected by Ozymandias and created by many.\nAll credit goes to the original authors.",
+        "description": "A collection of themes for the FBI app,\ncollected by Ozymandias and created by many.\nAll credit goes to the original authors.\nIf you'd like a theme added, create an issue at\ngithub.com/The0zymandias/FBI-Theme-Unistore",
         "file": "fbi-themes.unistore",
         "url": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/fbi-themes.unistore",
         "infoURL": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/storeInfo.json",
         "version": 3,
-        "revision": 9
+        "revision": 10
     },
     "storeContent": [
         {
@@ -21,7 +21,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "2/22/26",
                 "screenshots": []
             },
@@ -43,7 +43,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -65,6 +65,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -89,7 +93,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -111,6 +115,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -135,7 +143,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -157,6 +165,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -181,7 +193,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -203,6 +215,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -227,7 +243,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -249,6 +265,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -273,7 +293,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -295,6 +315,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -319,7 +343,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -341,6 +365,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -365,7 +393,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -387,6 +415,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -411,7 +443,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -433,6 +465,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -457,7 +493,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -470,6 +506,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -494,7 +534,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -516,6 +556,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -540,7 +584,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -562,6 +606,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -586,7 +634,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -608,6 +656,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -632,7 +684,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -654,6 +706,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -678,7 +734,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -700,6 +756,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -724,7 +784,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -746,6 +806,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -770,7 +834,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -792,6 +856,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -816,7 +884,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -838,6 +906,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -862,7 +934,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -875,6 +947,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -899,7 +975,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -912,6 +988,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -936,7 +1016,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -949,6 +1029,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -973,9 +1057,18 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Vulpes-Vulpeos/Monster%20Hunter%20Generations/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Vulpes-Vulpeos/Monster%20Hunter%20Generations/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -986,6 +1079,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1010,9 +1107,18 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
-                "screenshots": []
+                "screenshots": [
+                    {
+                        "description": "Main menu",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Zekamon/Galaxy%20FBI%20Theme/Previews/P1.png"
+                    },
+                    {
+                        "description": "Browsing",
+                        "url": "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/Zekamon/Galaxy%20FBI%20Theme/Previews/P2.png"
+                    }
+                ]
             },
             "Install": [
                 {
@@ -1023,6 +1129,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1047,7 +1157,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1060,6 +1170,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1084,7 +1198,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1097,6 +1211,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1121,7 +1239,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1134,6 +1252,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1158,7 +1280,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1171,6 +1293,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1195,7 +1321,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1208,6 +1334,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1232,7 +1362,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1245,6 +1375,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1269,7 +1403,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1282,6 +1416,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1306,7 +1444,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1319,6 +1457,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1343,7 +1485,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1356,6 +1498,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1380,7 +1526,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1393,6 +1539,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1417,7 +1567,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1430,6 +1580,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1454,7 +1608,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1467,6 +1621,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1491,7 +1649,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1504,6 +1662,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1528,7 +1690,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1541,6 +1703,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1565,7 +1731,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1578,6 +1744,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1602,7 +1772,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1615,6 +1785,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1639,7 +1813,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -1652,6 +1826,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1676,7 +1854,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -1698,6 +1876,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1722,7 +1904,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -1744,6 +1926,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1768,7 +1954,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -1790,6 +1976,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1814,7 +2004,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -1836,6 +2026,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1860,7 +2054,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -1882,6 +2076,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1906,7 +2104,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -1928,6 +2126,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1952,7 +2154,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -1974,6 +2176,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -1998,7 +2204,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -2011,6 +2217,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -2035,7 +2245,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -2057,6 +2267,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -2081,7 +2295,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -2103,6 +2317,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -2127,7 +2345,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": []
             },
@@ -2140,6 +2358,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -2164,7 +2386,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -2186,6 +2408,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -2210,7 +2436,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -2232,6 +2458,10 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",
@@ -2256,7 +2486,7 @@
                 "console": [
                     "3DS"
                 ],
-                "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
                 "last_updated": "",
                 "screenshots": [
                     {
@@ -2278,6 +2508,51 @@
                 {
                     "type": "mkdir",
                     "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "sdmc:/fbi-theme.zip",
+                    "input": "",
+                    "output": "sdmc:/fbi/"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/fbi-theme.zip"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "DarkPlus",
+                "author": "2b-zipper",
+                "version": "v1",
+                "category": [
+                    "theme"
+                ],
+                "console": [
+                    "3DS"
+                ],
+                "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
+                "last_updated": "",
+                "screenshots": []
+            },
+            "Install": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/Authors/2b-zipper/DarkPlus/theme.zip",
+                    "output": "sdmc:/fbi-theme.zip"
+                },
+                {
+                    "type": "mkdir",
+                    "directory": "sdmc:/fbi/"
+                },
+                {
+                    "type": "rmdir",
+                    "directory": "sdmc:/fbi/theme"
                 },
                 {
                     "type": "extractFile",

@@ -13,7 +13,9 @@
 #   You should have received a copy of the GNU General Public License
 #   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+import zipfile
 from urllib.parse import quote as urlquote
+from os import path
 
 def getNewThemeObj(name: str, author: str) -> dict:
     return {
@@ -23,7 +25,7 @@ def getNewThemeObj(name: str, author: str) -> dict:
             "version": "v1",
             "category": ["theme"],
             "console": ["3DS"],
-            "description": "Tap on the photo icon on the bottom of your screen to see a preview",
+            "description": "Tap on the photo icon on the bottom of your lower creen to see a preview",
             'last_updated': '',
             'screenshots': []
         }
@@ -41,6 +43,10 @@ def getInstallSteps(themeName, authorName) -> list[dict]:
                 "directory": "sdmc:/fbi/",
             },
             {
+              "type": "rmdir",
+              "directory": "sdmc:/fbi/theme"
+            },
+            {
                 "type": "extractFile",
                 "file": "sdmc:/fbi-theme.zip",
                 "input": "",
@@ -54,7 +60,7 @@ def getInstallSteps(themeName, authorName) -> list[dict]:
         ]
 
 def getPreviewURLString(themeName: str, authorName: str, previewFileName: str) -> str:
-    return "https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/"+urlquote(authorName)+"/"+urlquote(themeName)+"/Previews/"+urlquote(previewFileName)
+    return path.join("https://raw.githubusercontent.com/The0zymandias/FBI-Theme-Unistore/refs/heads/main/Authors/", urlquote(authorName), urlquote(themeName), "Previews", urlquote(previewFileName))
 
 def addClearFBIThemeOption(storeContent: list) -> None:
     clearThemeObj = getNewThemeObj("Reset to Default Theme", "Ozymandias")

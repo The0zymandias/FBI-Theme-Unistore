@@ -1,10 +1,10 @@
 {
     "title": "Ozymandias's FBI Themes",
     "author": "Ozymandias",
-    "description": "A collection of themes for the FBI app,\ncollected by Ozymandias and created by many.\nAll credit goes to the original authors.",
+    "description": "A collection of themes for the FBI app,\ncollected by Ozymandias and created by many.\nAll credit goes to the original authors.\nIf you'd like a theme added, create an issue at\ngithub.com/The0zymandias/FBI-Theme-Unistore",
     "file": "fbi-themes.unistore",
     "url": "https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/fbi-themes.unistore",
     "infoURL":"https://github.com/The0zymandias/FBI-Theme-Unistore/raw/refs/heads/main/storeInfo.json",
     "version": 3,
-    "revision": 9
+    "revision": 10
 }
